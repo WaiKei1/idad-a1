@@ -3,6 +3,7 @@ body {
   margin: auto;
   max-width: 1000px;
   padding: 1.5rem;
+  line-height: 1.3;
 }
 
 h1 {
@@ -18,6 +19,21 @@ h3 {
 p {
   font-size: 23px;
   color: rgb(78, 78, 24);
+}
+
+holdspace {
+  font-weight: 1000;
+  color: #293895;
+}
+
+limpbodybeat {
+  font-weight: 1000;
+  color: #cb6c2d;
+}
+
+contrast {
+  font-weight: 1000;
+  color: #d73131;
 }
 
 .container {
